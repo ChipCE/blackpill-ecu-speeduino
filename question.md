@@ -1,0 +1,1 @@
+B2 is boot1 , using that pin is fine ?
